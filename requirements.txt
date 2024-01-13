@@ -1,0 +1,9 @@
+
+# https://www.mattlayman.com/blog/2024/fun-scrapy-validation-ci/
+scrapy
+
+#
+# ---
+#
+# local/debug/utils
+ipdb
